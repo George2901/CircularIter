@@ -1,3 +1,3 @@
-module github.com/George2901/CircularIter
+module github.com/circulariter/circulariter
 
 go 1.19
